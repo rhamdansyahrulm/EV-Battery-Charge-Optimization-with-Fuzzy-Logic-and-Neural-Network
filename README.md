@@ -35,6 +35,13 @@
 </p>
 
 ### **1. Database Creation and Management**
+
+| Room Temperature | Battery Initial Temperature | t1 | t2 | t3 | t4 | lastSOC | lastSuhu |
+|---|---|---|---|---|---|---|---|
+| 303.19 | 298.80 | 1989.83 | 2484.47 | 2542.12 | 2576.31 | 0.85 | 317.30 |
+| 300.55 | 302.71 | 2423.81 | 2577.48 | 2579.01 | 2579.66 | 0.88 | 310.02 |
+| 304.11 | 303.27 | 1146.96 | 1646.36 | 1827.81 | 2462.77 | 0.78 | 310.98 |
+
 <p align="justify">
 &emsp;&emsp;The table above is an example of the dataset required during the final project development process. Variables such as roomTemperature, initialBatteryTemperature, t1, t2, t3, and t4 are parameters used in running the Simulink simulation and also serve as features in the machine learning process. On the other hand, lastSOC and lastTemperature are values generated from the simulation process and will be used as targets in machine learning model creation.
 </p>
