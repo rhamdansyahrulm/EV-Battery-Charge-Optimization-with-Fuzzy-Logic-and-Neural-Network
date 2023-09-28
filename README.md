@@ -9,19 +9,19 @@
   
 | Technical Index | Value |
 |-----------------|-------|
-| `**Battery Specifications**` |
+| **`Battery Specifications`** |
 | Number of battery cells | 192 |
 | Battery configuration | 96s2p |
 | Nominal capacity | 40 kWh |
 | Nominal voltage | 350 V |
 | Number of battery modules | 24 |
 |=======================|=======================|
-| `**Battery cell size**` |
+| **`Battery cell size`** |
 | Width | 261 mm |
 | Length | 216 mm |
 | Thickness | 7.9 mm |
 |=======================|=======================|
-| `**Fast charging capability**` |
+| **`Fast charging capability`** |
 | Maximum power | 46 kW |
 | Average power | 40 kW |
 | Battery temperature tolerance | 45°C to 60°C |
