@@ -3,16 +3,16 @@ Explore the world of electric vehicle battery optimization, where I simulate and
 ### Technical Specifications
 
 | Technical Index | Nilai |
-|---|---|---|
-| Spesifikasi Baterai | Jumlah sel baterai | 192 |
+|---|---|
+| Jumlah sel baterai | 192 |
 | Konfigurasi baterai | 96s2p |
 | Kapasitas nominal | 40 KWh |
 | Tegangan nominal | 350 V |
 | Jumlah modul baterai | 24 |
-| Ukuran Sel Baterai | Lebar | 261 mm |
+| Lebar | 261 mm |
 | Panjang | 216 mm |
 | Ketebalan | 7.9 mm |
-| Kemampuan Fast Charging | Daya maksimum | 46 KW |
+| Daya maksimum | 46 KW |
 | Daya rata-rata | 40 KW |
 | Toleransi suhu baterai | 45°C s.d. 60°C |
 | Waktu pengisian (10% s/d 80%) | 43 menit |
