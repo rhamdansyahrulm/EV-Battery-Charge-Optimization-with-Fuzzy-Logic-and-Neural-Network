@@ -19,7 +19,9 @@
 | 5     | 32                | 2080       | ReLU                |
 | 6     | 2                 | 66         | ReLU                |
 
+Caption: Neural Network Architecture
 </div>
+
 
 ## **2. Fuzzy Logic**
 
