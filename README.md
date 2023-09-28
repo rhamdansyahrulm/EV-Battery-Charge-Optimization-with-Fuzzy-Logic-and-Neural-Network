@@ -34,11 +34,11 @@
 
 ### **1. Database Creation and Management**
 
-| Room Temp (K) | Battery Initial Temp (K) | t1 (s) | t2 (s) | t3 (s) | t4 (s) | last Battery SOC (%) | last Battery Temp (K) |
+| Battery Initial Temp (K) | Room Temp (K) | t1 (s) | t2 (s) | t3 (s) | t4 (s) | Final Battery SOC (%) | Final Battery Temp (K) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 303.19 | 298.80 | 1989.83 | 2484.47 | 2542.12 | 2576.31 | 0.85 | 317.30 |
-| 300.55 | 302.71 | 2423.81 | 2577.48 | 2579.01 | 2579.66 | 0.88 | 310.02 |
-| 304.11 | 303.27 | 1146.96 | 1646.36 | 1827.81 | 2462.77 | 0.78 | 310.98 |
+| 25.66 | 28.12 | 1989.83 | 2484.47 | 2542.12 | 2576.31 | 0.85 | 317.30 |
+| 29.56 | 30.14 | 2423.81 | 2577.48 | 2579.01 | 2579.66 | 0.88 | 310.02 |
+| 30.12 | 32.78 | 1146.96 | 1646.36 | 1827.81 | 2462.77 | 0.78 | 310.98 |
 
 <p align="justify">
 &emsp;&emsp;The table above is an example of the dataset required during the final project development process. Variables such as roomTemperature, initialBatteryTemperature, t1, t2, t3, and t4 are parameters used in running the Simulink simulation and also serve as features in the machine learning process. On the other hand, lastSOC and lastTemperature are values generated from the simulation process and will be used as targets in machine learning model creation.
@@ -56,7 +56,7 @@
 &emsp;&emsp;Based on the dataset collected in this experiment, the following is a summary of the data statistics that will be used to build the neural network model.
 </p>
 
-|                           | Initial Battery Temperature (°C) | Environmental Temperature (°C) | t1 (s)  | t2 (s)  | t3 (s)  | t4 (s)  | Final SOC (%) | Final Battery Temperature (°C) |
+|                           | Battery Initial Temp | Room Temp | t1  | t2  | t3  | t4  | Final SOC | Final Battery Temp |
 |--------------------------|:--------------------------------:|:------------------------------:|:-------:|:-------:|:-------:|:-------:|:-------------:|:----------------------------:|
 | **Count**                 | 149                              | 149                            | 149     | 149     | 149     | 149     | 149           | 149                          |
 | **Mean**                  | 28.58                            | 28.31                          | 1300    | 1926    | 2251    | 2413    | 77.78         | 37.65                        |
