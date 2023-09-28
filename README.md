@@ -1,7 +1,8 @@
-# EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network
-Explore the world of electric vehicle battery optimization, where I simulate and fine-tune charging strategies based on temperature and State of Charge (SOC). I employ advanced techniques like Fuzzy Logic and Neural Networks to achieve peak performance and efficiency in electric vehicle battery charging.
+# **EV Battery Optimization with Fuzzy Logic and Neural Network**
 
-### Technical Specifications
+The outcomes of this research demonstrate the successful implementation of a neural network model in recognizing battery charging patterns and predicting the state of charge (SOC) value, as well as the final charging temperature, based on the duration parameter at different current levels within the MCC charging method. The results of this study showcase the achievement of an SOC value of 83% within a charging duration of 43 minutes, while maintaining the battery temperature at an optimal level of approximately 35.85°C. Comparatively, this method yields a 3.38% increase in SOC compared to the conventional constant current-constant voltage (CC-CV) method, with a marginal temperature rise of 0.41oC
+
+## Technical Specifications
 <div align="center">
   
 | Technical Index | Value |
