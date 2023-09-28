@@ -6,7 +6,7 @@ Explore the world of electric vehicle battery optimization, where I simulate and
   
   | Technical Index | Value |
   |:-:|:-:|
-  | Battery Specifications |  |
+  | Battery Specifications |
   | Number of battery cells | 192 |
   | Battery configuration | 96s2p |
   | Nominal capacity | 40 kWh |
