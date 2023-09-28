@@ -3,6 +3,7 @@ Explore the world of electric vehicle battery optimization, where I simulate and
 
 ### Technical Specifications
 <div align="center">
+  
   | Technical Index | Value |
   |---|---|
   | Number of battery cells | 192 |
@@ -17,4 +18,5 @@ Explore the world of electric vehicle battery optimization, where I simulate and
   | Average power | 40 kW |
   | Battery temperature tolerance | 45°C to 60°C |
   | Charging time (10% to 80%) | 43 minutes |
+  
 </div>
