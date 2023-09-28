@@ -9,13 +9,37 @@
 </p>
 
 <div align="center">
-    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/9a011046-ff60-4585-a3cc-3382ab19c52c" width="65%">
+  
+| Layer | Number of Neurons | Parameters | Activation Function |
+|:-----:|:-----------------:|:----------:|:-------------------:|
+| 1     | 32                | 224        | ReLU                |
+| 2     | 64                | 2112       | ReLU                |
+| 3     | 128               | 8320       | ReLU                |
+| 4     | 64                | 8256       | ReLU                |
+| 5     | 32                | 2080       | ReLU                |
+| 6     | 2                 | 66         | ReLU                |
+
 </div>
 
 
 <p align="justify">
 &emsp;&emsp;Fuzzy logic is utilized to optimize charging duration while considering SOC and temperature to maximize SOC with minimal temperature increase. The system employs trapezoidal membership functions for three linguistic variables: SOC, temperature, and duration, each having low and high linguistic sets. Fuzzy logic rules are defined using 'if-then' statements, as shown in image and Table below. 
 </p>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+| Final SOC | Final Temperature | Duration  |
+|:---------:|:-----------------:|:---------:|
+| High      | High              | Long      |
+| High      | Low               | Long      |
+| Low       | High              | Long      |
+| Low       | Low               | Short     |
+
+</div>
 
 <p align="justify">
 &emsp;&emsp;The final step in the fuzzy logic method is the defuzzification process, which involves converting the output results of fuzzy inference into a single concrete value. In this experiment, the defuzzification method employed is the Tsukamoto method, which involves calculating the centroid.
