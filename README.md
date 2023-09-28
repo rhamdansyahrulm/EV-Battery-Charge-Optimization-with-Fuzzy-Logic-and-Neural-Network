@@ -67,4 +67,26 @@
 | **75th Percentile**       | 30.25                            | 30.15                          | 1922    | 2393    | 2527    | 2562    | 84.38         | 38.67                        |
 | **Maximum**               | 31.90                            | 31.91                          | 2573    | 2579    | 2580    | 2580    | 89.43         | 51.57                        |
 
+<p align="justify">
+&emsp;&emsp; Here is also a representation of the correlation between variables in the data distribution. Based on the heatmap graph, it can be observed that each step duration correlates positively with SOC and the final temperature in the MCC battery charging process. However, in subsequent durations, the correlation with the target variables decreases. Nevertheless, the magnitude of the correlation values indicates the capability of the feature variables for prediction.
+</p>
 
+<div align="center">
+    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/90860284-452b-4a6c-ab0d-2b7c0362aba1" width="65%">
+</div>
+
+<p align="justify">
+&emsp;&emsp; The image above displays the pattern of data distribution between feature variables and the target. Based on the graph, it's evident that the correlation is not optimal due to the presence of outliers affecting the correlation results. Therefore, data preprocessing to handle outliers is necessary before training the neural network model.
+</p>
+
+<div align="center">
+    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/9a011046-ff60-4585-a3cc-3382ab19c52c" width="65%">
+</div>
+
+<p align="justify">
+&emsp;&emsp; The distribution of outlier values in the target variable can be seen in the histogram graph above. Outlier detection in this graph is performed using the standard deviation method. Based on the calculations, it is determined that there are 2 outliers in the lastSOC variable and 7 outliers in the lastTemperature variable.
+</p>
+
+<div align="center">
+    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/b812c914-a840-4226-8c6e-146057be516a" width="65%">
+</div>
