@@ -84,7 +84,7 @@
 </div>
 
 <p align="justify">
-&emsp;&emsp; The distribution of outlier values in the target variable can be seen in the histogram graph above. Outlier detection in this graph is performed using the standard deviation method. Based on the calculations, it is determined that there are 2 outliers in the lastSOC variable and 7 outliers in the lastTemperature variable.
+&emsp;&emsp; The distribution of outlier values in the target variable can be seen in the histogram graph above. Outlier detection in this graph is performed using the standard deviation method. Based on the calculations, it is determined that there are 2 outliers in the lastSOC variable and 7 outliers in the lastTemp variable.
 </p>
 
 <div align="center">
