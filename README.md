@@ -47,4 +47,5 @@
 </p>
 
 1. `Room Temp (K)`
-   This variable represents the room temperature in Kelvin (K) during the simulation. It serves as an environmental factor affecting the battery charging process.
+
+This variable represents the room temperature in Kelvin (K) during the simulation. It serves as an environmental factor affecting the battery charging process.
