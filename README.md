@@ -2,17 +2,17 @@
 Explore the world of electric vehicle battery optimization, where I simulate and fine-tune charging strategies based on temperature and State of Charge (SOC). I employ advanced techniques like Fuzzy Logic and Neural Networks to achieve peak performance and efficiency in electric vehicle battery charging.
 ### Technical Specifications
 
-| Technical Index | Nilai |
-|---|---|
-| Jumlah sel baterai | 192 |
-| Konfigurasi baterai | 96s2p |
-| Kapasitas nominal | 40 KWh |
-| Tegangan nominal | 350 V |
-| Jumlah modul baterai | 24 |
-| Lebar | 261 mm |
-| Panjang | 216 mm |
-| Ketebalan | 7.9 mm |
-| Daya maksimum | 46 KW |
-| Daya rata-rata | 40 KW |
-| Toleransi suhu baterai | 45°C s.d. 60°C |
-| Waktu pengisian (10% s/d 80%) | 43 menit |
+| Technical Index | Value |
+|---|---|---|
+| Number of battery cells | 192 |
+| Battery configuration | 96s2p |
+| Nominal capacity | 40 kWh |
+| Nominal voltage | 350 V |
+| Number of battery modules | 24 |
+| Width | 261 mm |
+| Length | 216 mm |
+| Thickness | 7.9 mm |
+| Maximum power | 46 kW |
+| Average power | 40 kW |
+| Battery temperature tolerance | 45°C to 60°C |
+| Charging time (10% to 80%) | 43 minutes |
