@@ -19,7 +19,7 @@
 | 5     | 32                | 2080       | ReLU                |
 | 6     | 2                 | 66         | ReLU                |
 
-Caption: Neural Network Architecture
+<i>Neural Network Architecture</i>
 </div>
 
 
