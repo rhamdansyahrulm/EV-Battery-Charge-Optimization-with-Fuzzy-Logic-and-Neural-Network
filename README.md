@@ -2,7 +2,7 @@
 Explore the world of electric vehicle battery optimization, where I simulate and fine-tune charging strategies based on temperature and State of Charge (SOC). I employ advanced techniques like Fuzzy Logic and Neural Networks to achieve peak performance and efficiency in electric vehicle battery charging.
 
 ### Technical Specifications
-<p align="center">
+<div align="center">
   | Technical Index | Value |
   |---|---|
   | Number of battery cells | 192 |
@@ -17,4 +17,4 @@ Explore the world of electric vehicle battery optimization, where I simulate and
   | Average power | 40 kW |
   | Battery temperature tolerance | 45°C to 60°C |
   | Charging time (10% to 80%) | 43 minutes |
-</p>
+</div>
