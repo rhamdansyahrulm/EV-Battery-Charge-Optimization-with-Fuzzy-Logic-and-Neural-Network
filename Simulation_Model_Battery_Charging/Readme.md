@@ -1,6 +1,16 @@
+<p align="justify">
+&emsp;&emsp; 
+</p>
+
+<div align="center">
+    <img src="" width="65%">
+</div>
+
 # **A. Battery Charging Circuit Design**
 
-The simulation process in this final project is conducted using Matlab software with Simulink for creating the simulation circuit. In the simulation circuit, there are several block groups used as the control system for the lithium-ion battery charging circuit. Figure 3.2 represents the flowchart of the lithium-ion battery charging circuit control system. Based on this figure, the current magnitude will be determined based on the current level's predetermined time and SOC value.
+<p align="justify">
+&emsp;&emsp;The simulation process in this final project is conducted using Matlab software with Simulink for creating the simulation circuit. In the simulation circuit, there are several block groups used as the control system for the lithium-ion battery charging circuit. Figure 3.2 represents the flowchart of the lithium-ion battery charging circuit control system. Based on this figure, the current magnitude will be determined based on the current level's predetermined time and SOC value. 
+</p>
 
 **1. Based on Current Level Duration**
 To determine the current magnitude at a specific time, the initial step is to consider the predetermined current level duration. The current level duration is determined by considering the potential temperature rise and SOC change that may occur at each current level. Therefore, by selecting the appropriate duration for each current level, the fast charging process can proceed at an optimal temperature and within a relatively fast charging time.
