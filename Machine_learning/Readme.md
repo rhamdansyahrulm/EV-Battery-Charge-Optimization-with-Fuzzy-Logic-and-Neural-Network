@@ -31,6 +31,9 @@
 
 <div align="center">
     <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/5239a71e-bc9a-4d08-a586-54ba2b50f552" width="50%">
+
+<i>Fuzzy Logic Membership Functions</i>
+
 </div>
 
 <div align="center">
@@ -41,6 +44,8 @@
 | High      | Low               | Long      |
 | Low       | High              | Long      |
 | Low       | Low               | Short     |
+
+<i>Fuzzy Rules</i>
 
 </div>
 
