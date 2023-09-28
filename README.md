@@ -9,19 +9,19 @@
   
 | Technical Index | Value |
 |-----------------|-------|
-| **Battery Specifications** |
+| `**Battery Specifications**` |
 | Number of battery cells | 192 |
 | Battery configuration | 96s2p |
 | Nominal capacity | 40 kWh |
 | Nominal voltage | 350 V |
 | Number of battery modules | 24 |
 |=======================|=======================|
-| **Battery cell size** |
+| `**Battery cell size**` |
 | Width | 261 mm |
 | Length | 216 mm |
 | Thickness | 7.9 mm |
 |=======================|=======================|
-| **Fast charging capability** |
+| `**Fast charging capability**` |
 | Maximum power | 46 kW |
 | Average power | 40 kW |
 | Battery temperature tolerance | 45°C to 60°C |
@@ -36,7 +36,7 @@
 
 ### **1. Database Creation and Management**
 
-| Room Temp (K) | Battery Initial Temp (K) | t1 (s) | t2 (s) | t3 (s) | t4 (s) | last SOC (%) | last Temp (K) |
+| Room Temp (K) | Battery Initial Temp (K) | t1 (s) | t2 (s) | t3 (s) | t4 (s) | last Battery SOC (%) | last Battery Temp (K) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 303.19 | 298.80 | 1989.83 | 2484.47 | 2542.12 | 2576.31 | 0.85 | 317.30 |
 | 300.55 | 302.71 | 2423.81 | 2577.48 | 2579.01 | 2579.66 | 0.88 | 310.02 |
