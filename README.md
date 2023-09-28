@@ -52,3 +52,19 @@
 | `Last SOC`      | This variable indicates the State of Charge (SOC) of the battery as a percentage (%) at the end of the charging process. SOC represents the amount of charge stored in the battery. |
 | `Last Temp`     | This variable represents the temperature of the battery in Kelvin (K) at the conclusion of the charging process. It reflects the final temperature of the battery after charging. |
 
+<p align="justify">
+&emsp;&emsp;Based on the dataset collected in this experiment, the following is a summary of the data statistics that will be used to build the neural network model.
+</p>
+
+|                           | Initial Battery Temperature (°C) | Environmental Temperature (°C) | t1 (s)  | t2 (s)  | t3 (s)  | t4 (s)  | Final SOC (%) | Final Battery Temperature (°C) |
+|--------------------------|:--------------------------------:|:------------------------------:|:-------:|:-------:|:-------:|:-------:|:-------------:|:----------------------------:|
+| **Count**                 | 149                              | 149                            | 149     | 149     | 149     | 149     | 149           | 149                          |
+| **Mean**                  | 28.58                            | 28.31                          | 1300    | 1926    | 2251    | 2413    | 77.78         | 37.65                        |
+| **Standard Deviation**    | 2.04                             | 2.06                           | 757     | 567     | 355     | 219     | 0.09          | 3.44                         |
+| **Minimum**               | 25.06                            | 25.03                          | 0.88    | 198     | 917     | 1721    | 48.66         | 31.33                        |
+| **25th Percentile**       | 26.85                            | 26.30                          | 647     | 1571    | 2096    | 2367    | 72.06         | 35.65                        |
+| **Median (50th Percentile)** | 28.69                          | 28.19                          | 1257    | 2063    | 2391    | 2518    | 79.80         | 37.46                        |
+| **75th Percentile**       | 30.25                            | 30.15                          | 1922    | 2393    | 2527    | 2562    | 84.38         | 38.67                        |
+| **Maximum**               | 31.90                            | 31.91                          | 2573    | 2579    | 2580    | 2580    | 89.43         | 51.57                        |
+
+
