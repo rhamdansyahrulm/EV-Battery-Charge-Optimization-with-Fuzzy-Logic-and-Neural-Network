@@ -47,10 +47,10 @@
 </p>
 
 | Variable            | Description                                                                  |
-|:--------------------|:-----------------------------------------------------------------------------|
-| `Room Temp (K)`     | This variable represents the room temperature in Kelvin (K) during the simulation. It serves as an environmental factor affecting the battery charging process. |
-| `Battery Initial Temp (K)` | This variable indicates the initial temperature of the battery in Kelvin (K) before the charging process begins. It is an important parameter as it influences the charging behavior. |
+|:------------------------:|:-----------------------------------------------------------------------------|
+| `Room Temp`     | This variable represents the room temperature in Kelvin (K) during the simulation. It serves as an environmental factor affecting the battery charging process. |
+| `Battery Initial Temp` | This variable indicates the initial temperature of the battery in Kelvin (K) before the charging process begins. It is an important parameter as it influences the charging behavior. |
 | `t1`, `t2`, `t3`, `t4` | These are the time durations in seconds (s) for the different steps in the charging process. |
-| `Last SOC (%)`      | This variable indicates the State of Charge (SOC) of the battery as a percentage (%) at the end of the charging process. SOC represents the amount of charge stored in the battery. |
-| `Last Temp (K)`     | This variable represents the temperature of the battery in Kelvin (K) at the conclusion of the charging process. It reflects the final temperature of the battery after charging. |
+| `Last SOC`      | This variable indicates the State of Charge (SOC) of the battery as a percentage (%) at the end of the charging process. SOC represents the amount of charge stored in the battery. |
+| `Last Temp`     | This variable represents the temperature of the battery in Kelvin (K) at the conclusion of the charging process. It reflects the final temperature of the battery after charging. |
 
