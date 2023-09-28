@@ -46,6 +46,6 @@
 &emsp;&emsp;The table above is an example of the dataset required during the final project development process. Variables such as roomTemperature, initialBatteryTemperature, t1, t2, t3, and t4 are parameters used in running the Simulink simulation and also serve as features in the machine learning process. On the other hand, lastSOC and lastTemperature are values generated from the simulation process and will be used as targets in machine learning model creation.
 </p>
 
-1. `Room Temp (K)`
+`1. Room Temp (K)` 
 
 This variable represents the room temperature in Kelvin (K) during the simulation. It serves as an environmental factor affecting the battery charging process.
