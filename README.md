@@ -8,7 +8,7 @@
 <div align="center">
   
 | Technical Index | Value |
-|-----------------|-------|
+|:---------------:|:-----:|
 | **Battery Specifications** |
 | Number of battery cells | 192 |
 | Battery configuration | 96s2p |
