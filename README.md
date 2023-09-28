@@ -36,7 +36,7 @@
 
 ### **1. Database Creation and Management**
 
-| Room Temperature | Battery Initial Temperature | t1 | t2 | t3 | t4 | lastSOC | lastSuhu |
+| Room Temp (K) | Battery Initial Temperature (K) | t1 (s) | t2 (s) | t3 (s) | t4 (s) | lastSOC (%) | lastSuhu (K) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 303.19 | 298.80 | 1989.83 | 2484.47 | 2542.12 | 2576.31 | 0.85 | 317.30 |
 | 300.55 | 302.71 | 2423.81 | 2577.48 | 2579.01 | 2579.66 | 0.88 | 310.02 |
