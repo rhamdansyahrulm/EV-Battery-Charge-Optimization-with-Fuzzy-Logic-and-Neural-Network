@@ -34,7 +34,7 @@
 
 ### **1. Database Creation and Management**
 
-| Battery Initial Temp (K) | Room Temp (K) | t1 (s) | t2 (s) | t3 (s) | t4 (s) | Final Battery SOC (%) | Final Battery Temp (K) |
+| Battery Initial Temp (°C) | Room Temp (°C) | t1 (s) | t2 (s) | t3 (s) | t4 (s) | Final Battery SOC (%) | Final Battery Temp (°C) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 25.66 | 28.12 | 1989.83 | 2484.47 | 2542.12 | 2576.31 | 0.85 | 317.30 |
 | 29.56 | 30.14 | 2423.81 | 2577.48 | 2579.01 | 2579.66 | 0.88 | 310.02 |
