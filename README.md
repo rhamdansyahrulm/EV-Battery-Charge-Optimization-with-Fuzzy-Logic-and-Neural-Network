@@ -14,10 +14,12 @@ Explore the world of electric vehicle battery optimization, where I simulate and
 | Nominal voltage | 350 V |
 | Number of battery modules | 24 |
 | **Battery cell size** |
+||
 | Width | 261 mm |
 | Length | 216 mm |
 | Thickness | 7.9 mm |
 | **Fast charging capability** |
+||
 | Maximum power | 46 kW |
 | Average power | 40 kW |
 | Battery temperature tolerance | 45°C to 60°C |
