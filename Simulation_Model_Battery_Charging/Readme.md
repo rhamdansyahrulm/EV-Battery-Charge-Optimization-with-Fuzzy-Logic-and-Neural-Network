@@ -12,6 +12,10 @@
 &emsp;&emsp;The simulation process in this final project is conducted using Matlab software with Simulink for creating the simulation circuit. In the simulation circuit, there are several block groups used as the control system for the lithium-ion battery charging circuit. Figure 3.2 represents the flowchart of the lithium-ion battery charging circuit control system. Based on this figure, the current magnitude will be determined based on the current level's predetermined time and SOC value. 
 </p>
 
+<div align="center">
+    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/9abe2f50-c813-40b5-8a14-a6ce3a7e285b" width="65%">
+</div>
+
 **1. Based on Current Level Duration**
 
 <p align="justify">
