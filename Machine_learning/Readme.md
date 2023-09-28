@@ -55,4 +55,7 @@
 
 <div align="center">
     <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/e23e2015-d0ad-4298-aab3-171a5685432a" width="50%">
+
+<i>Tsukamoto Methods for Fuzzy Logic</i>
+
 </div>
