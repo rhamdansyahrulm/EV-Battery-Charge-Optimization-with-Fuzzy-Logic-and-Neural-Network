@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-        }
-    </style>
-</head>
-<body>
 # **A. Battery Charging Circuit Flowchart**
 
 <p align="justify">
@@ -97,8 +86,6 @@
     <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/957abfa5-ad5c-4316-8aa1-6310020eb664" width="65%"><br>
     <i>Airflow Control Block Circuit</i>
 </div>
-</body>
-</html>
 
 
 
