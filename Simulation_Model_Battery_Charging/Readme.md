@@ -41,15 +41,15 @@
 
 <div align="center">
     
-    | Variable | Function |
-    |----------|----------|
-    | S1, S2, …, S24 | These variables represent the outputs from each battery module containing the State of Charge (SOC) values of each module at each time. |
-    | T1, T2, …, T24 | These variables represent the outputs from each battery module containing the temperature values of each module at each time. |
-    | FC | This variable is used to select the appropriate flow rate during the simulation. It is used to determine the cooling rate of the battery. |
-    | FT | This variable is used to control the cooling temperature and ensure that the battery temperature does not exceed a safe limit. |
-    | T | This variable represents the output containing the maximum and minimum temperature values of a cell within a battery module. |
-    | SOC | This variable represents the output containing the maximum and minimum SOC values of a cell within a battery module. |
-    | I | This variable represents the magnitude of the current determined based on the temperature and SOC values of all battery cells. |
+| Variable | Function |
+|----------|----------|
+| S1, S2, …, S24 | These variables represent the outputs from each battery module containing the State of Charge (SOC) values of each module at each time. |
+| T1, T2, …, T24 | These variables represent the outputs from each battery module containing the temperature values of each module at each time. |
+| FC | This variable is used to select the appropriate flow rate during the simulation. It is used to determine the cooling rate of the battery. |
+| FT | This variable is used to control the cooling temperature and ensure that the battery temperature does not exceed a safe limit. |
+| T | This variable represents the output containing the maximum and minimum temperature values of a cell within a battery module. |
+| SOC | This variable represents the output containing the maximum and minimum SOC values of a cell within a battery module. |
+| I | This variable represents the magnitude of the current determined based on the temperature and SOC values of all battery cells. |
     
 </div>
 
