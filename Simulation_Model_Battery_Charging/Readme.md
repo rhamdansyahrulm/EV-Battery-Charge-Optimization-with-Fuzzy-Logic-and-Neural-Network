@@ -13,7 +13,8 @@
 </p>
 
 <div align="center">
-    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/9abe2f50-c813-40b5-8a14-a6ce3a7e285b" width="65%">
+    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/9abe2f50-c813-40b5-8a14-a6ce3a7e285b" width="65%"><br>
+    <i>Battery Charging Circuit Flowchart</i>
 </div>
 
 **1. Based on Current Level Duration**
