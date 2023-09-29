@@ -62,5 +62,42 @@
 &emsp;&emsp;In the simulation, there are several block groups: Cell T min & max, SOC min & max, DC current profile, SOC bound check, and flow control. Input values of SOC and temperature are directed to Cell T min & max and SOC min & max blocks to obtain the maximum and minimum SOC and temperature values for all battery cells, simplifying computations. Then, the current values are determined in the DC current profile block based on the measurement time points.
 </p>
 
+<div align="center">
+    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/20329e7d-a14e-4bef-9155-0d87ae5aa603" width="65%">
+    <i>Charging Current Control System</i>
+</div>
+
+<p align="justify">
+&emsp;&emsp; In this experiment, there is a maximum limit of six current levels that can occur in each trial. The initial charging temperature starts at 125 A, and then the current value decreases by 31.25 A at each current level. After obtaining the current value based on temperature, the next step is to verify this current value when performing a check based on SOC, which is carried out in the SOC bound check block.
+</p>
+
+<div align="center">
+    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/d3c5dfc6-bb1e-45dd-b8e2-c7a9dfd9de2e" width="65%">
+    <i>DC Current Profile Circuit</i>
+</div>
+
+<p align="justify">
+&emsp;&emsp;The validation process for charging current based on the minimum and maximum SOC values in Figure 3.8 is used to reduce the charging current to 0.05 A when the SOC condition is < 0.04 or > 0.97. This is done to prevent overcharging during the charging process. Additionally, very low SOC values have a high internal resistance, which can significantly increase battery temperature and lead to a rapid reduction in battery lifespan.
+</p>
+
+<div align="center">
+    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/52c7d2cf-15d4-41dc-a452-6216c6bbf556" width="65%">
+    <i>SOC Bound Check Block Circuit</i>
+</div>
+
+<p align="justify">
+&emsp;&emsp; Next, to help mitigate the high temperature increase during charging, a system is implemented to control the airflow rate, as shown in the image below.
+</p>
+
+<div align="center">
+    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/957abfa5-ad5c-4316-8aa1-6310020eb664" width="65%">
+    <i>Airflow Control Block Circuit</i>
+</div>
+
+
+
+
+
+
 
 
