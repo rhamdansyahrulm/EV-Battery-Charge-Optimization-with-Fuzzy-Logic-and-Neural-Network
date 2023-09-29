@@ -72,7 +72,7 @@
 </p>
 
 <div align="center">
-    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/d3c5dfc6-bb1e-45dd-b8e2-c7a9dfd9de2e" width="65%">
+    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/d3c5dfc6-bb1e-45dd-b8e2-c7a9dfd9de2e" width="65%"><br>
     <i>DC Current Profile Circuit</i>
 </div>
 
@@ -81,7 +81,7 @@
 </p>
 
 <div align="center">
-    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/52c7d2cf-15d4-41dc-a452-6216c6bbf556" width="65%">
+    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/52c7d2cf-15d4-41dc-a452-6216c6bbf556" width="65%"><br>
     <i>SOC Bound Check Block Circuit</i>
 </div>
 
@@ -90,7 +90,7 @@
 </p>
 
 <div align="center">
-    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/957abfa5-ad5c-4316-8aa1-6310020eb664" width="65%">
+    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/957abfa5-ad5c-4316-8aa1-6310020eb664" width="65%"><br>
     <i>Airflow Control Block Circuit</i>
 </div>
 
