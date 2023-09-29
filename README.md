@@ -40,6 +40,8 @@
 | 29.56 | 30.14 | 2423.81 | 2577.48 | 2579.01 | 2579.66 | 0.88 | 310.02 |
 | 30.12 | 32.78 | 1146.96 | 1646.36 | 1827.81 | 2462.77 | 0.78 | 310.98 |
 
+<i>a sample dataset was utilized in the research</i>
+
 <p align="justify">
 &emsp;&emsp;The table above is an example of the dataset required during the final project development process. Variables such as roomTemperature, initialBatteryTemperature, t1, t2, t3, and t4 are parameters used in running the Simulink simulation and also serve as features in the machine learning process. On the other hand, lastSOC and lastTemperature are values generated from the simulation process and will be used as targets in machine learning model creation.
 </p>
@@ -51,6 +53,8 @@
 | `t1`, `t2`, `t3`, `t4` | These are the time durations in seconds (s) for the different steps in the charging process. |
 | `Last SOC`      | This variable indicates the State of Charge (SOC) of the battery as a percentage (%) at the end of the charging process. SOC represents the amount of charge stored in the battery. |
 | `Last Temp`     | This variable represents the temperature of the battery in Kelvin (K) at the conclusion of the charging process. It reflects the final temperature of the battery after charging. |
+
+<i>The battery parameters used in the research</i>
 
 ### **2. Exploratory Data Analysis (EDA)**
 
@@ -68,6 +72,8 @@
 | **Median (50th Percentile)** | 28.69                          | 28.19                          | 1257    | 2063    | 2391    | 2518    | 79.80         | 37.46                        |
 | **75th Percentile**       | 30.25                            | 30.15                          | 1922    | 2393    | 2527    | 2562    | 84.38         | 38.67                        |
 | **Maximum**               | 31.90                            | 31.91                          | 2573    | 2579    | 2580    | 2580    | 89.43         | 51.57                        |
+
+<i>The statistics of the data to be used</i>
 
 <p align="justify">
 &emsp;&emsp; Here is also a representation of the correlation between variables in the data distribution. Based on the heatmap graph, it can be observed that each step duration correlates positively with SOC and the final temperature in the MCC battery charging process. However, in subsequent durations, the correlation with the target variables decreases. Nevertheless, the magnitude of the correlation values indicates the capability of the feature variables for prediction.
@@ -92,7 +98,7 @@
 </p>
 
 <div align="center">
-    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/b812c914-a840-4226-8c6e-146057be516a" width="65%">
+    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/b812c914-a840-4226-8c6e-146057be516a" width="65%"><br>
     <i>Data Outlier (lastSOC & lastSuhu Variable)</i>
 </div>
 
