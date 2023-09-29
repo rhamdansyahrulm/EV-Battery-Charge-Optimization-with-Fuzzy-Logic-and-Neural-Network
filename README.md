@@ -128,7 +128,7 @@
 </p>
 
 <div align="center">
-    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/323faadb-abcd-4d68-a6d9-ba8909893043" width="65%">
+    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/323faadb-abcd-4d68-a6d9-ba8909893043" width="65%"><br>
   <i>Comparison of current, temperature, and SOC changes for each charging parameter at an ambient temperature of 28°C.</i>
 </div>
 
