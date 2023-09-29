@@ -1,11 +1,3 @@
-<p align="justify">
-&emsp;&emsp; 
-</p>
-
-<div align="center">
-    <img src="" width="65%">
-</div>
-
 # **A. Battery Charging Circuit Flowchart**
 
 <p align="justify">
