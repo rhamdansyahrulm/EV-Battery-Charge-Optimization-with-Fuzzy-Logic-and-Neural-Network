@@ -72,6 +72,8 @@
 &emsp;&emsp;Based on the dataset collected in this experiment, the following is a summary of the data statistics that will be used to build the neural network model.
 </p>
 
+<div align="center">
+
 |                           | Battery Initial Temp | Room Temp | t1  | t2  | t3  | t4  | Final SOC | Final Battery Temp |
 |--------------------------|:--------------------------------:|:------------------------------:|:-------:|:-------:|:-------:|:-------:|:-------------:|:----------------------------:|
 | **Count**                 | 149                              | 149                            | 149     | 149     | 149     | 149     | 149           | 149                          |
@@ -84,6 +86,8 @@
 | **Maximum**               | 31.90                            | 31.91                          | 2573    | 2579    | 2580    | 2580    | 89.43         | 51.57                        |
 
 <i>The statistics of the data to be used</i>
+
+</div>
 
 <p align="justify">
 &emsp;&emsp; Here is also a representation of the correlation between variables in the data distribution. Based on the heatmap graph, it can be observed that each step duration correlates positively with SOC and the final temperature in the MCC battery charging process. However, in subsequent durations, the correlation with the target variables decreases. Nevertheless, the magnitude of the correlation values indicates the capability of the feature variables for prediction.
