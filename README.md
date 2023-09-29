@@ -25,7 +25,7 @@
 | Battery temperature tolerance | 45°C to 60°C |
 | Charging time (10% to 80%) | 43 minutes |
 
-<i>The battery parameters used in the research</i>
+<i>The battery parameters used in the research</i><br>
 
 </div>
 
@@ -44,7 +44,7 @@
 | 29.56 | 30.14 | 2423.81 | 2577.48 | 2579.01 | 2579.66 | 0.88 | 310.02 |
 | 30.12 | 32.78 | 1146.96 | 1646.36 | 1827.81 | 2462.77 | 0.78 | 310.98 |
 
-<i>a sample dataset was utilized in the research</i>
+<i>a sample dataset was utilized in the research</i><br>
 
 </div>
 
@@ -62,7 +62,7 @@
 | `Last SOC`      | This variable indicates the State of Charge (SOC) of the battery as a percentage (%) at the end of the charging process. SOC represents the amount of charge stored in the battery. |
 | `Last Temp`     | This variable represents the temperature of the battery in Kelvin (K) at the conclusion of the charging process. It reflects the final temperature of the battery after charging. |
 
-<i>Explanation of dataset variables</i>
+<i>Explanation of dataset variables</i><br>
 
 </div>
 
@@ -85,7 +85,7 @@
 | **75th Percentile**       | 30.25                            | 30.15                          | 1922    | 2393    | 2527    | 2562    | 84.38         | 38.67                        |
 | **Maximum**               | 31.90                            | 31.91                          | 2573    | 2579    | 2580    | 2580    | 89.43         | 51.57                        |
 
-<i>The statistics of the data to be used</i>
+<i>The statistics of the data to be used</i><br>
 
 </div>
 
@@ -95,7 +95,7 @@
 
 <div align="center">
     <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/90860284-452b-4a6c-ab0d-2b7c0362aba1" width="65%"><br>
-    <i>Heatmap Correlations</i>
+    <i>Heatmap Correlations</i><br>
 </div>
 
 <p align="justify">
@@ -104,7 +104,7 @@
 
 <div align="center">
     <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/9a011046-ff60-4585-a3cc-3382ab19c52c" width="65%"><br>
-    <i>Data Distribution Between Feature Variables and the Target Variable</i>
+    <i>Data Distribution Between Feature Variables and the Target Variable</i><br>
 </div>
 
 <p align="justify">
@@ -113,7 +113,7 @@
 
 <div align="center">
     <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/b812c914-a840-4226-8c6e-146057be516a" width="65%"><br>
-    <i>Data Outlier (lastSOC & lastSuhu Variable)</i>
+    <i>Data Outlier (lastSOC & lastSuhu Variable)</i><br>
 </div>
 
 ## **B. Result**
@@ -142,7 +142,7 @@
 | Fuzzy Logic             | 2099.12 | 2230.86 | 2231.22 | 2327.76 | 83.38                   | 81.83                   | 1.55          | 36.31                            | 36.44                           | 0.37                  |
 
 
-<i>The prediction and simulation results of battery charging using the MCC method using a combination of neural network and fuzzy logic.</i>
+<i>The prediction and simulation results of battery charging using the MCC method using a combination of neural network and fuzzy logic.</i><br>
 
 </div>
 
@@ -152,7 +152,7 @@
 
 <div align="center">
     <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/323faadb-abcd-4d68-a6d9-ba8909893043" width="65%"><br>
-  <i>Comparison of current, temperature, and SOC changes for each charging parameter at an ambient temperature of 28°C.</i>
+  <i>Comparison of current, temperature, and SOC changes for each charging parameter at an ambient temperature of 28°C.</i><br>
 </div>
 
 <p align="justify">
