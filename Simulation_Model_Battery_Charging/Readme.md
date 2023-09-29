@@ -35,7 +35,7 @@
 </p>
 
 <div align="center">
-    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/70f113cb-8182-4b33-9818-825d1c741f4b" width="40%">
+    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/70f113cb-8182-4b33-9818-825d1c741f4b" width="65%">
     <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/29b6ff28-16c4-4875-bc85-67f0513ce467" width="15%">
 </div>
 
