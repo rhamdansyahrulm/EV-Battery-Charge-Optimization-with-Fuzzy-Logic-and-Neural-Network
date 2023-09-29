@@ -27,7 +27,7 @@
 </p>
 
 <div align="center">
-    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/99cac54a-15ec-4fc0-af47-281df98bec9b" width="65%">
+    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/99cac54a-15ec-4fc0-af47-281df98bec9b" width="55%">
 
 <i>Lost Function</i>
 
