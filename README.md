@@ -74,7 +74,8 @@
 </p>
 
 <div align="center">
-    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/90860284-452b-4a6c-ab0d-2b7c0362aba1" width="65%">
+    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/90860284-452b-4a6c-ab0d-2b7c0362aba1" width="65%"><br>
+    <i>Heatmap Correlations</i>
 </div>
 
 <p align="justify">
@@ -82,7 +83,8 @@
 </p>
 
 <div align="center">
-    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/9a011046-ff60-4585-a3cc-3382ab19c52c" width="65%">
+    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/9a011046-ff60-4585-a3cc-3382ab19c52c" width="65%"><br>
+    <i>Data Distribution Between Feature Variables and the Target Variable</i>
 </div>
 
 <p align="justify">
@@ -91,6 +93,7 @@
 
 <div align="center">
     <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/b812c914-a840-4226-8c6e-146057be516a" width="65%">
+    <i>Data Outlier (lastSOC & lastSuhu Variable)</i>
 </div>
 
 ## **B. Result**
