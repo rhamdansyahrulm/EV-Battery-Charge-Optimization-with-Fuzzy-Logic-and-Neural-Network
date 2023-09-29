@@ -42,7 +42,7 @@
 <div align="center">
     
 | Variable | Function |
-|----------|----------|
+|:--------:|:---------|
 | S1, S2, …, S24 | These variables represent the outputs from each battery module containing the State of Charge (SOC) values of each module at each time. |
 | T1, T2, …, T24 | These variables represent the outputs from each battery module containing the temperature values of each module at each time. |
 | FC | This variable is used to select the appropriate flow rate during the simulation. It is used to determine the cooling rate of the battery. |
