@@ -27,7 +27,7 @@
 </p>
 
 <div align="center">
-    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/99cac54a-15ec-4fc0-af47-281df98bec9b" width="50%">
+    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/99cac54a-15ec-4fc0-af47-281df98bec9b" width="65%">
 
 <i>Lost Function</i>
 
@@ -38,7 +38,7 @@
 </p>
 
 <div align="center">
-    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/a72d157a-91f6-4b83-ae73-f4d1ce9c7888" width="50%">
+    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/a72d157a-91f6-4b83-ae73-f4d1ce9c7888" width="65%">
 
 <i>comparing predictions and actual values in SOC (State of Charge) and temperature testing.</i>
 
