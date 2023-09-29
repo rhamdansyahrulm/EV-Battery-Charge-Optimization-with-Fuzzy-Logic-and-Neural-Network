@@ -35,11 +35,12 @@
 </p>
 
 <div align="center">
-    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/70f113cb-8182-4b33-9818-825d1c741f4b" width="65%">
-    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/29b6ff28-16c4-4875-bc85-67f0513ce467" width="65%">
+    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/70f113cb-8182-4b33-9818-825d1c741f4b" width="40%">
+    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/29b6ff28-16c4-4875-bc85-67f0513ce467" width="40%">
 </div>
 
 <div align="center">
+    
     | Variable | Function |
     |----------|----------|
     | S1, S2, …, S24 | These variables represent the outputs from each battery module containing the State of Charge (SOC) values of each module at each time. |
@@ -49,6 +50,7 @@
     | T | This variable represents the output containing the maximum and minimum temperature values of a cell within a battery module. |
     | SOC | This variable represents the output containing the maximum and minimum SOC values of a cell within a battery module. |
     | I | This variable represents the magnitude of the current determined based on the temperature and SOC values of all battery cells. |
+    
 </div>
 
 
