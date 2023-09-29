@@ -22,6 +22,27 @@
 <i>Neural Network Architecture</i>
 </div>
 
+<p align="justify">
+&emsp;&emsp;In order to validate the results of the training conducted by the neural network model architecture, an evaluation process is required to assess the model's performance in predicting the target variable. The purpose of this evaluation is to ensure that the model has been developed and trained effectively and can be relied upon for real-world use. In this research, model evaluation is calculated using the mean squared error (MSE) loss function. The following is a line graph of the loss values at each iteration of the neural network model training.
+</p>
+
+<div align="center">
+    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/99cac54a-15ec-4fc0-af47-281df98bec9b" width="50%">
+
+<i>Lost Function</i>
+
+</div>
+
+<p align="justify">
+&emsp;&emsp;Through further analysis, it can be determined that the training process of this model is relatively stable and convergent. This is indicated by the absence of significant fluctuations in the loss function values during the training process. Consistency in the reduction of loss values and good alignment between training and validation data indicate that the model does not encounter major challenges in recognizing patterns within the data.
+</p>
+
+<div align="center">
+    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/a72d157a-91f6-4b83-ae73-f4d1ce9c7888" width="50%">
+
+<i>comparing predictions and actual values in SOC (State of Charge) and temperature testing.</i>
+
+</div>
 
 ## **2. Fuzzy Logic**
 
