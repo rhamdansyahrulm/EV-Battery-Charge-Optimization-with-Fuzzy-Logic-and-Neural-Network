@@ -37,6 +37,7 @@
 <div align="center">
     <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/70f113cb-8182-4b33-9818-825d1c741f4b" width="65%">
     <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/29b6ff28-16c4-4875-bc85-67f0513ce467" width="15%">
+    <i>Simulation Model</i>
 </div>
 
 <div align="center">
@@ -50,7 +51,8 @@
 | T | This variable represents the output containing the maximum and minimum temperature values of a cell within a battery module. |
 | SOC | This variable represents the output containing the maximum and minimum SOC values of a cell within a battery module. |
 | I | This variable represents the magnitude of the current determined based on the temperature and SOC values of all battery cells. |
-    
+
+<i>The function of variables at each port</i>
 </div>
 
 
