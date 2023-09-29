@@ -24,7 +24,9 @@
 | Average power | 40 kW |
 | Battery temperature tolerance | 45°C to 60°C |
 | Charging time (10% to 80%) | 43 minutes |
-  
+
+<i>The battery parameters used in the research</i>
+
 </div>
 
 ## **Workflow Steps**
@@ -34,6 +36,8 @@
 
 ### **1. Database Creation and Management**
 
+<div align="center">
+
 | Battery Initial Temp (°C) | Room Temp (°C) | t1 (s) | t2 (s) | t3 (s) | t4 (s) | Final Battery SOC (%) | Final Battery Temp (°C) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 25.66 | 28.12 | 1989.83 | 2484.47 | 2542.12 | 2576.31 | 0.85 | 317.30 |
@@ -42,9 +46,13 @@
 
 <i>a sample dataset was utilized in the research</i>
 
+</div>
+
 <p align="justify">
 &emsp;&emsp;The table above is an example of the dataset required during the final project development process. Variables such as roomTemperature, initialBatteryTemperature, t1, t2, t3, and t4 are parameters used in running the Simulink simulation and also serve as features in the machine learning process. On the other hand, lastSOC and lastTemperature are values generated from the simulation process and will be used as targets in machine learning model creation.
 </p>
+
+<div align="center">
 
 | Variable            | Description                                                                  |
 |:------------------------|:-----------------------------------------------------------------------------|
@@ -54,7 +62,9 @@
 | `Last SOC`      | This variable indicates the State of Charge (SOC) of the battery as a percentage (%) at the end of the charging process. SOC represents the amount of charge stored in the battery. |
 | `Last Temp`     | This variable represents the temperature of the battery in Kelvin (K) at the conclusion of the charging process. It reflects the final temperature of the battery after charging. |
 
-<i>The battery parameters used in the research</i>
+<i>Explanation of dataset variables</i>
+
+</div>
 
 ### **2. Exploratory Data Analysis (EDA)**
 
