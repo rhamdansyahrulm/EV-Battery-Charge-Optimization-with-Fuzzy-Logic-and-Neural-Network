@@ -37,7 +37,6 @@
 <div align="center">
     <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/70f113cb-8182-4b33-9818-825d1c741f4b" width="65%">
     <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/29b6ff28-16c4-4875-bc85-67f0513ce467" width="15%">
-    <i>Simulation Model</i>
 </div>
 
 <p align="center">
@@ -58,6 +57,10 @@
 
 <i>The function of variables at each port</i>
 </div>
+
+<p align="justify">
+&emsp;&emsp;In the simulation, there are several block groups: Cell T min & max, SOC min & max, DC current profile, SOC bound check, and flow control. Input values of SOC and temperature are directed to Cell T min & max and SOC min & max blocks to obtain the maximum and minimum SOC and temperature values for all battery cells, simplifying computations. Then, the current values are determined in the DC current profile block based on the measurement time points.
+</p>
 
 
 
