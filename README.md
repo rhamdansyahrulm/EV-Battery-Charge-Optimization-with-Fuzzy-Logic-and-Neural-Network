@@ -4,7 +4,7 @@
 &emsp;&emsp;The outcomes of this research demonstrate the successful implementation of a neural network model in recognizing battery charging patterns and predicting the state of charge (SOC) value, as well as the final charging temperature, based on the duration parameter at different current levels within the MCC charging method. The results of this study showcase the achievement of an SOC value of 83% within a charging duration of 43 minutes, while maintaining the battery temperature at an optimal level of approximately 35.85°C. Comparatively, this method yields a 3.38% increase in SOC compared to the conventional constant current-constant voltage (CC-CV) method, with a marginal temperature rise of 0.41oC.
 </p>
 
-## **Technical Specifications**
+## **A. Technical Specifications**
 <div align="center">
   
 | Technical Index | Value |
@@ -92,3 +92,46 @@
 <div align="center">
     <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/b812c914-a840-4226-8c6e-146057be516a" width="65%">
 </div>
+
+## **B. Result**
+
+### **1. Testing of Battery Charging Duration Optimization Algorithm (ambient temperature of 28°C)**
+
+<p align="justify">
+&emsp;&emsp; The table below contains the parameters obtained from the optimization process using a combination of neural network and fuzzy logic at an ambient temperature of 28°C.
+</p>
+
+<div align="center">
+  
+| Parameter       | t1 (s) | t2 (s) | t3 (s) | t4 (s) | SOC Akhir (%) | Suhu Akhir (°C) | Prediksi | Simulasi | Error (%) | Prediksi | Simulasi | Error (%) |
+|-----------------|:------:|:------:|:------:|:------:|:-------------:|:---------------:|:--------:|:--------:|:---------:|:--------:|:--------:|:---------:|
+|                 |        |        |        |        |               |                 |          |          |           |          |          |           |
+| `Battery Initial Temp` = 28°C |          |          |          |          |               |                 |          |          |           |          |          |           |
+| Suhu Minimum    | 2011.88| 2226.44| 2230.75| 2242.59| 81.56         | 80.44           | 1.12     | 35.86    | 35.86     | 0.02     |
+| SOC Maksimum    | 2114.65| 2274.17| 2287.36| 2578.50| 83.92         | 84.76           | 0.84     | 36.13    | 35.98     | 0.41     |
+| Fuzzy logic     | 2063.26| 2228.37| 2228.64| 2265.96| 82.74         | 81.07           | 1.67     | 35.99    | 35.89     | 0.29     |
+|                 |        |        |        |        |               |                 |          |          |           |          |          |           |
+| `Battery Initial Temp` = 30°C |          |          |          |          |               |                 |          |          |           |          |          |           |
+| Suhu Minimum    | 2002.33| 2226.90| 2236.72| 2366.84| 81.84         | 81.31           | 0.53     | 35.80    | 35.86     | 0.16     |
+| SOC Maksimum    | 2113.85| 2253.35| 2255.27| 2578.86| 83.44         | 84.25           | 0.81     | 36.12    | 35.95     | 0.46     |
+| Fuzzy logic     | 2058.09| 2237.66| 2238.99| 2574.71| 82.64         | 83.46           | 0.82     | 35.96    | 35.91     | 0.14     |
+|                 |        |        |        |        |               |                 |          |          |           |          |          |           |
+| `Battery Initial Temp` = 32°C |          |          |          |          |               |                 |          |          |           |          |          |           |
+| Suhu Minimum    | 2083.44| 2225.97| 2228.84| 2239.54| 82.67         | 80.97           | 1.70     | 36.10    | 36.42     | 0.88     |
+| SOC Maksimum    | 2114.79| 2228.06| 2267.70| 2578.45| 84.08         | 84.12           | 0.04     | 36.51    | 36.48     | 0.09     |
+| Fuzzy logic     | 2099.12| 2230.86| 2231.22| 2327.76| 83.38         | 81.83           | 1.55     | 36.31    | 36.44     | 0.37     |
+
+</div>
+
+<p align="justify">
+&emsp;&emsp; Based on the table, it can be concluded that the charging duration parameters at each current level are capable of producing optimal State of Charge (SOC) and final temperature, where the SOC value is above 80% with a final temperature below 40°C. Additionally, the prediction results achieved using neural network and fuzzy logic are relatively close to the simulation results, with a final SOC error below 2% and a final temperature error below 1%.
+</p>
+
+<div align="center">
+    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/323faadb-abcd-4d68-a6d9-ba8909893043" width="65%">
+  <i>Comparison of current, temperature, and SOC changes for each charging parameter at an ambient temperature of 28°C.</i>
+</div>
+
+<p align="justify">
+&emsp;&emsp; The use of fuzzy logic in selecting the final parameters has proven effective in reducing the final battery temperature compared to using parameters that yield the maximum SOC. Additionally, this method also improves the final SOC compared to using parameters that yield the minimum temperature. However, the use of fuzzy logic does not provide a significant difference in the rate of increase of SOC and final temperature at each time step. The graphs presented below show a time series comparison of the fast charging battery process using the three parameters for each initial battery surface temperature variable.
+</p>
