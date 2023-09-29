@@ -63,7 +63,7 @@
 </p>
 
 <div align="center">
-    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/20329e7d-a14e-4bef-9155-0d87ae5aa603" width="65%">
+    <img src="https://github.com/rhamdansyahrulm/EV-Battery-Charge-Optimization-with-Fuzzy-Logic-and-Neural-Network/assets/141615487/20329e7d-a14e-4bef-9155-0d87ae5aa603" width="65%"><br>
     <i>Charging Current Control System</i>
 </div>
 
