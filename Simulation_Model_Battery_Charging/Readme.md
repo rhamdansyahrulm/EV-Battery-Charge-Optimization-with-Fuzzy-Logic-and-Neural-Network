@@ -40,6 +40,10 @@
     <i>Simulation Model</i>
 </div>
 
+<p align="center">
+<i>Simulation Model</i>
+</p>
+
 <div align="center">
     
 | Variable | Function |
